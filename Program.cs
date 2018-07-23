@@ -5,16 +5,11 @@ namespace VScode
     
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string args)
         {
             NewMethod1();
             NewMethod1();
             New.NewMethod12();
-            
-            //github
-            // // int t= test.cal();
-            // Console.WriteLine("{0}",j);
-
         }
 
         private static void NewMethod1()
