@@ -5,7 +5,7 @@ namespace VScode
     
     class Program
     {
-        static void Main(string args)
+        static void Main(string[] args)
         {
             NewMethod1();
             NewMethod1();
